@@ -1,2 +1,2 @@
-# Geeklog | Test plugin
-Just a fake Geeklog plugin to test automatic updates from repositories to your Geeklog site.
+# Geeklog | Test plugin 2016
+This plugin do nothing. It's a fake plugin to test automatic updates from repositories to your Geeklog site.
